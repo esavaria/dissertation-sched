@@ -14,7 +14,7 @@ Michele Weigle (@weiglemc) - "Providing Location Security in Vehicular Networks"
 
 Edit the list below:
 
-1. Student 1
+1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 1. Student 2
 
 ## Scheduling
@@ -40,7 +40,7 @@ Tues, Apr 7
 
 Thurs, Apr 9
 
-1. 
+1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 2. 
 3. 
 
