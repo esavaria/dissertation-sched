@@ -1,16 +1,19 @@
 # Steps for Editing the Dissertation Presentation Schedule
 
 ##  Fork this repository
+(Reference: https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 Open the repo (https://github.com/cs800-research-spr20/dissertation-sched) and click the **Fork** button.  This will create a copy of this repo in your own GitHub account.
 
 ![](imgs/fork.png)
 
-Reference: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
-
 ##  Pull updates from the main repo
 
 Between the time you've forked the repo and when you're ready to make your updates, there may have been changes to the files.  I made have made an adjustment, or another student may have made an adjustment.  So, before you make any edits, make sure that you have the latest version of the repo.
+
+*The directions below are showing how to do this via github.com, but if you're comfortable with git on the command-line and have checked out a local copy of your forked repo, then this process is much easier, as described at  https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork*
+
+(Reference: https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381)
 
 Reload your page and see if there's a message that either says you're up-to-date or behind the cs800-research-spr20:master.  If you're behind, then you need to pull in the updates.  Click the *Compare* link.
 
@@ -41,10 +44,6 @@ Then on the next page, click the **Confirm and rebase** button.  And then you sh
 Then reload your repo.  If you still have a message that says you're some number of commits behind the master, click **Compare** then **switching the base** and scroll down to verify that it says "Showing 0 changed files with 0 additions and 0 deletions."
 
 ![](imgs/no-changes.png)
-
-References:
-* using github.com: https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381
-* using git on the command-line: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork
 
 
 ## Make your updates
