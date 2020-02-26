@@ -9,7 +9,7 @@ Open the repo (https://github.com/cs800-research-spr20/dissertation-sched) and c
 
 ##  Pull updates from the main repo
 
-Between the time you've forked the repo and when you're ready to make your updates, there may have been changes to the files.  I made have made an adjustment, or another student may have made an adjustment.  So, before you make any edits, make sure that you have the latest version of the repo.
+Between the time you've forked the repo and when you're ready to make your updates, there may have been changes to the files.  I may have made an adjustment, or another student may have made an adjustment.  So, before you make any edits, make sure that you have the latest version of the repo.
 
 *The directions below are showing how to do this via github.com, but if you're comfortable with git on the command-line and have checked out a local copy of your forked repo, then this process is much easier, as described at  https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork*
 
