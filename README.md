@@ -43,7 +43,6 @@ Thurs, Apr 9
 
 1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 2. 
-3. 
 
 Tues, Apr 14
 
