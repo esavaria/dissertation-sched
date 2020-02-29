@@ -62,5 +62,5 @@ Tues, Apr 21
 
 Thurs, Apr 23
 
-1. 
+1. Ivan Makohon (@IvanM08106184) - "IMPROVING STRUCTURAL FEATURES PREDICTION IN PROTEIN STRUCTURE MODELING", Ashraf Yaseen, 2014, https://digitalcommons.odu.edu/computerscience_etds/68/
 2. 
