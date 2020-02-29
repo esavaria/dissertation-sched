@@ -17,7 +17,6 @@ Edit the list below:
 1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 1. Himarsha Jayanetti (@himarshaj) - "Using Web Archives to Enrich the Live Web Experience Through Storytelling", Yasmin AlNoamany, 2016, https://digitalcommons.odu.edu/computerscience_etds/13/
 1. Ivan Makohon (@IvanM08106184) - "IMPROVING STRUCTURAL FEATURES PREDICTION IN PROTEIN STRUCTURE MODELING", Ashraf Yaseen, 2014, https://digitalcommons.odu.edu/computerscience_etds/68/
-1. Student 2
 
 ## Scheduling
 
