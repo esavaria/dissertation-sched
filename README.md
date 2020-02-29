@@ -17,6 +17,7 @@ Edit the list below:
 1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 1. Himarsha Jayanetti (@himarshaj) - "Using Web Archives to Enrich the Live Web Experience Through Storytelling", Yasmin AlNoamany, 2016, https://digitalcommons.odu.edu/computerscience_etds/13/
 1. Ivan Makohon (@IvanM08106184) - "IMPROVING STRUCTURAL FEATURES PREDICTION IN PROTEIN STRUCTURE MODELING", Ashraf Yaseen, 2014, https://digitalcommons.odu.edu/computerscience_etds/68/
+1. Richard Pates (@rpate027) - "Investigating Emerging Security Threats in Clouds and Data Centers", Xing Gao, 2018, http://dx.doi.org/10.21220/s2-q287-xx22
 
 ## Scheduling
 
@@ -26,7 +27,7 @@ Before you commit, make sure that the formatting is still correct.  The lists be
 
 Tues, Mar 31
 
-1. 
+1. Richard Pates (@rpate027) - "Investigating Emerging Security Threats in Clouds and Data Centers", Xing Gao, 2018, http://dx.doi.org/10.21220/s2-q287-xx22
 2. 
 
 Thurs, Apr 2
