@@ -16,6 +16,7 @@ Edit the list below:
 
 1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 1. Student 2
+1. Himarsha Jayanetti (@himarshaj) - "Using Web Archives to Enrich the Live Web Experience Through Storytelling", Yasmin AlNoamany, 2016, https://digitalcommons.odu.edu/computerscience_etds/13/
 
 ## Scheduling
 
@@ -30,7 +31,7 @@ Tues, Mar 31
 
 Thurs, Apr 2
 
-1. 
+1. Himarsha Jayanetti (@himarshaj) - "Using Web Archives to Enrich the Live Web Experience Through Storytelling", Yasmin AlNoamany, 2016, https://digitalcommons.odu.edu/computerscience_etds/13/  
 2. 
 
 Tues, Apr 7
