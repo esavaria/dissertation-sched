@@ -17,7 +17,11 @@ Edit the list below:
 1. Kritika Garg (@kritikagarg) - "Detecting, Modeling, and Predicting User Temporal Intention", Hany M. SalahEldeen, 2015, http://digitalcommons.odu.edu/computerscience_etds/25
 1. Himarsha Jayanetti (@himarshaj) - "Using Web Archives to Enrich the Live Web Experience Through Storytelling", Yasmin AlNoamany, 2016, https://digitalcommons.odu.edu/computerscience_etds/13/
 1. Ivan Makohon (@IvanM08106184) - "IMPROVING STRUCTURAL FEATURES PREDICTION IN PROTEIN STRUCTURE MODELING", Ashraf Yaseen, 2014, https://digitalcommons.odu.edu/computerscience_etds/68/
+1. Travis Reid (@treid003) - "Scripts in a Frame: A Framework for Archiving Deferred Representations", Justin F. Brunelle, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/
+1. Joi Best (@jbest002) - "Finite Element Modeling Driven by Health Care and Aerospace Applications", Fotios Drakopoulos, 2017, https://digitalcommons.odu.edu/computerscience_etds/29/
 1. Richard Pates (@rpate027) - "Investigating Emerging Security Threats in Clouds and Data Centers", Xing Gao, 2018, http://dx.doi.org/10.21220/s2-q287-xx22
+
+
 
 ## Scheduling
 
@@ -37,7 +41,7 @@ Thurs, Apr 2
 
 Tues, Apr 7
 
-1. 
+1. Joi Best (@jbest002) - "Finite Element Modeling Driven by Health Care and Aerospace Applications", Fotios Drakopoulos, 2017, https://digitalcommons.odu.edu/computerscience_etds/29/
 2.
 
 Thurs, Apr 9
@@ -53,7 +57,7 @@ Tues, Apr 14
 Thurs, Apr 16
 
 1. 
-2. 
+2. Travis Reid (@treid003) - "Scripts in a Frame: A Framework for Archiving Deferred Representations", Justin F. Brunelle, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/
 3. 
 
 Tues, Apr 21
