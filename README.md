@@ -19,6 +19,9 @@ Edit the list below:
 1. Ivan Makohon (@IvanM08106184) - "IMPROVING STRUCTURAL FEATURES PREDICTION IN PROTEIN STRUCTURE MODELING", Ashraf Yaseen, 2014, https://digitalcommons.odu.edu/computerscience_etds/68/
 1. Travis Reid (@treid003) - "Scripts in a Frame: A Framework for Archiving Deferred Representations", Justin F. Brunelle, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/
 1. Joi Best (@jbest002) - "Finite Element Modeling Driven by Health Care and Aerospace Applications", Fotios Drakopoulos, 2017, https://digitalcommons.odu.edu/computerscience_etds/29/
+1. Richard Pates (@rpate027) - "Investigating Emerging Security Threats in Clouds and Data Centers", Xing Gao, College of William and Mary - Arts & Sciences, 2018, https://scholarworks.wm.edu/etd/1550153840/
+
+
 
 ## Scheduling
 
@@ -28,7 +31,7 @@ Before you commit, make sure that the formatting is still correct.  The lists be
 
 Tues, Mar 31
 
-1. 
+1. Richard Pates (@rpate027) - "Investigating Emerging Security Threats in Clouds and Data Centers", Xing Gao, College of William and Mary - Arts & Sciences, 2018, https://scholarworks.wm.edu/etd/1550153840/
 2. 
 
 Thurs, Apr 2
