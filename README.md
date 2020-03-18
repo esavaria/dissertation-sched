@@ -20,6 +20,7 @@ Edit the list below:
 1. Travis Reid (@treid003) - "Scripts in a Frame: A Framework for Archiving Deferred Representations", Justin F. Brunelle, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/
 1. Joi Best (@jbest002) - "Finite Element Modeling Driven by Health Care and Aerospace Applications", Fotios Drakopoulos, 2017, https://digitalcommons.odu.edu/computerscience_etds/29/
 1. Richard Pates (@rpate027) - "Investigating Emerging Security Threats in Clouds and Data Centers", Xing Gao, College of William and Mary - Arts & Sciences, 2018, https://scholarworks.wm.edu/etd/1550153840/
+1. Evan Savaria (@esavaria) - "Modeling and Extracting Information about Cybersecurity Events from Text", Satyapanich Taneeya, University of Maryland, 2019, https://search-proquest-com.proxy.lib.odu.edu/docview/2377288862?accountid=12967
 
 
 
@@ -56,7 +57,7 @@ Tues, Apr 14
 
 Thurs, Apr 16
 
-1. 
+1. 1. Evan Savaria (@esavaria) - "Modeling and Extracting Information about Cybersecurity Events from Text", Satyapanich Taneeya, University of Maryland, 2019, https://search-proquest-com.proxy.lib.odu.edu/docview/2377288862?accountid=12967
 2. Travis Reid (@treid003) - "Scripts in a Frame: A Framework for Archiving Deferred Representations", Justin F. Brunelle, 2016, https://digitalcommons.odu.edu/computerscience_etds/10/
 3. 
 
